@@ -1,0 +1,6 @@
+{
+  "name": "Kapsabet Discover",
+  "description": "Nandi County student travel guide and destination explorer with Grafana Faro Web SDK telemetry instrumentation, containerized for Google Cloud Run.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
